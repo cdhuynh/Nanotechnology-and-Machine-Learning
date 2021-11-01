@@ -26,8 +26,8 @@ Our MVP is to design a basic ML model for skin cancer detection, followed by res
 **Technologies:**
 
 - Machine learning models (supervised and unsupervised)
-- Nanotechnology (emphasis on detection and imaging)
-- Datasets
+- Nanotechnology (emphasis on detection and imaging) - Carbon Nanotubes
+- Datasets - Kaggle
 - Project MONAI (open-source framework)
 
 
