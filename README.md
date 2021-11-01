@@ -34,6 +34,10 @@ Our MVP is to design a basic ML model for skin cancer detection, followed by res
 
 **Sprint 2 Skin Cancer Diagnosis by using Machine Learning**
 
+- Pre-processing
+- Segmentation
+- Feature extraction
+- Classification
 
 
 ![skin cancer detect](https://user-images.githubusercontent.com/7721258/139742308-af1d54b1-2182-4dcb-98d0-73e465ec2a34.jpg)
