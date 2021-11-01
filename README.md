@@ -42,6 +42,10 @@ Our MVP is to design a basic ML model for skin cancer detection, followed by res
 
 ![skin cancer detect](https://user-images.githubusercontent.com/7721258/139742308-af1d54b1-2182-4dcb-98d0-73e465ec2a34.jpg)
 
+
+
+**Sprint 3: Next Steps**
+
 ![image](https://user-images.githubusercontent.com/56008239/139744616-f97e75a8-e806-4282-9fe4-42f2b2716c50.png)
 
 
