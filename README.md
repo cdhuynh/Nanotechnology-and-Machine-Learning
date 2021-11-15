@@ -55,6 +55,8 @@ Our MVP is to design a basic ML model for skin cancer detection, followed by res
 
 # Step of Model Building
 **CNN**
+
+
 I used the Keras Sequential API, where you have just to add one layer at a time, starting from the input.
 
 The first is the convolutional (Conv2D) layer. It is like a set of learnable filters. I choosed to set 32 filters for the two firsts conv2D layers and 64 filters for the two last ones. Each filter transforms a part of the image (defined by the kernel size) using the kernel filter. The kernel filter matrix is applied on the whole image. Filters can be seen as a transformation of the image.
@@ -72,3 +74,8 @@ Dropout is a regularization method, where a proportion of nodes in the layer are
 The Flatten layer is use to convert the final feature maps into a one single 1D vector. This flattening step is needed so that you can make use of fully connected layers after some convolutional/maxpool layers. It combines all the found local features of the previous convolutional layers.
 
 In the end i used the features in two fully-connected (Dense) layers which is just artificial an neural networks (ANN) classifier. In the last layer(Dense(10,activation="softmax")) the net outputs distribution of probability of each class.
+
+**Image of Model** 
+
+![8c5af6a1ef92b082f9f6a69feef7fc8](https://user-images.githubusercontent.com/87682737/141837496-730ad9fc-3ce9-4ae0-86dc-de1820a7a225.png)
+
