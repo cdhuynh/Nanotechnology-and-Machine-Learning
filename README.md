@@ -49,3 +49,7 @@ Our MVP is to design a basic ML model for skin cancer detection, followed by res
 ![image](https://user-images.githubusercontent.com/56008239/139744616-f97e75a8-e806-4282-9fe4-42f2b2716c50.png)
 
 
+**Table from "Carbon nanotubes in cancer diagnosis and therapy**:
+
+![Parsing information 1](https://user-images.githubusercontent.com/56008239/141825905-7e2ad095-43c0-4168-8c81-cb71275127eb.jpg)
+
