@@ -79,3 +79,16 @@ In the end i used the features in two fully-connected (Dense) layers which is ju
 
 ![8c5af6a1ef92b082f9f6a69feef7fc8](https://user-images.githubusercontent.com/87682737/141837496-730ad9fc-3ce9-4ae0-86dc-de1820a7a225.png)
 
+# Setting Optimizer
+
+The most important function(I think) is the optimizer. This function will iteratively improve parameters (filters kernel values, weights and bias of neurons ...) in order to minimise the loss. I choosed Adam optimizer because it combines the advantages of two other extensions of stochastic gradient descent. Specifically:
+
+1. Adaptive Gradient Algorithm (AdaGrad) that maintains a per-parameter learning rate that improves performance on problems with sparse gradients (e.g. natural language and computer vision problems).
+
+2. Root Mean Square Propagation (RMSProp) that also maintains per-parameter learning rates that are adapted based on the average of recent magnitudes of the gradients for the weight (e.g. how quickly it is changing). This means the algorithm does well on online and non-stationary problems (e.g. noisy).
+
+Adam realizes the benefits of both AdaGrad and RMSProp. So, it's a popular algorithm in the field of deep learning because it achieves good results fast.
+
+**Image of Optimizer** 
+
+![0f1a826be50ad6e25add45d9c6fd45d](https://user-images.githubusercontent.com/87682737/141838254-14938ea1-d9e4-4919-b4f8-5625021818fd.png)
