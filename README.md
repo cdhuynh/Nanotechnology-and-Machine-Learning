@@ -32,7 +32,7 @@ Our MVP is to design a basic ML model for skin cancer detection, followed by res
 
 
 
-**Sprint 2 Skin Cancer Diagnosis by using Machine Learning**
+# Sprint 2 Skin Cancer Diagnosis by using Machine Learning
 
 - Pre-processing
 - Segmentation
@@ -44,14 +44,21 @@ Our MVP is to design a basic ML model for skin cancer detection, followed by res
 
 
 
-**Sprint 3: Next Steps**
+# Sprint 3:
 
-![image](https://user-images.githubusercontent.com/56008239/139744616-f97e75a8-e806-4282-9fe4-42f2b2716c50.png)
+**Attempts to generate synthetic/artificial data for our ML model.**
+
+- Find relevant literature (e
+- Interpret graphs, charts, etc.
+- Parse information to create training datasets
 
 
 **Table from "Carbon nanotubes in cancer diagnosis and therapy**:
 
 ![Parsing information 1](https://user-images.githubusercontent.com/56008239/141825905-7e2ad095-43c0-4168-8c81-cb71275127eb.jpg)
+
+
+**Creating our initial ML model for detection and training**
 
 # Step of Model Building
 **CNN**
@@ -92,3 +99,9 @@ Adam realizes the benefits of both AdaGrad and RMSProp. So, it's a popular algor
 **Image of Optimizer** 
 
 ![0f1a826be50ad6e25add45d9c6fd45d](https://user-images.githubusercontent.com/87682737/141838254-14938ea1-d9e4-4919-b4f8-5625021818fd.png)
+
+# Sprint 4
+
+**Goals**
+- Create datasets 
+- Train the ML model to recognize generated signals
