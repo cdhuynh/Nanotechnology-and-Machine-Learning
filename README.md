@@ -80,6 +80,8 @@ Combining convolutional and pooling layers, CNN are able to combine local featur
 
 
 Dropout is a regularization method, where a proportion of nodes in the layer are randomly ignored (setting their wieghts to zero) for each training sample. This drops randomly a propotion of the network and forces the network to learn features in a distributed way. This technique also improves generalization and reduces the overfitting.
+![image](https://user-images.githubusercontent.com/7721258/142285866-2af8ebf0-68b4-4919-9924-eb82815a0db6.png)
+
 
 'relu' is the rectifier (activation function max(0,x). The rectifier activation function is used to add non linearity to the network.
 
