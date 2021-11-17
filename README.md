@@ -110,6 +110,7 @@ Adam realizes the benefits of both AdaGrad and RMSProp. So, it's a popular algor
 In this step we will check the testing accuracy and validation accuracy of our model,plot confusion matrix and also check the missclassified images count of each type
 ![17b18420de1fe290a96bc60e1057613](https://user-images.githubusercontent.com/87682737/142267946-4f553870-3c63-4e53-9863-69d0a8af8c99.png)
 
+research paper
 ![image](https://user-images.githubusercontent.com/7721258/142285334-d9cb1c86-2531-40b9-8c2b-ba2b5112d182.png)
 
 
