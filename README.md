@@ -76,6 +76,8 @@ The CNN can isolate features that are useful everywhere from these transformed i
 The second important layer in CNN is the pooling (MaxPool2D) layer. This layer simply acts as a downsampling filter. It looks at the 2 neighboring pixels and picks the maximal value. These are used to reduce computational cost, and to some extent also reduce overfitting. We have to choose the pooling size (i.e the area size pooled each time) more the pooling dimension is high, more the downsampling is important.
 
 Combining convolutional and pooling layers, CNN are able to combine local features and learn more global features of the image.
+![image](https://user-images.githubusercontent.com/7721258/142282969-1cd0af7b-cec8-4b7d-bc51-f289c88a83cc.png)
+
 
 Dropout is a regularization method, where a proportion of nodes in the layer are randomly ignored (setting their wieghts to zero) for each training sample. This drops randomly a propotion of the network and forces the network to learn features in a distributed way. This technique also improves generalization and reduces the overfitting.
 
