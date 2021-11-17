@@ -64,7 +64,7 @@ Our MVP is to design a basic ML model for skin cancer detection, followed by res
 Because the data provided is a whole dataset, we should split it into 2 sets, one for training and another for testing. In this step we will split the dataset into training and testing set of 80:20 ratio
 
 # Step of Model Building
-**CNN**
+**CNN (Convolutional Neural Networks)**
 
 
 I used the Keras Sequential API, where you have just to add one layer at a time, starting from the input.
