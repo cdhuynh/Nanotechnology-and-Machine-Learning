@@ -100,8 +100,14 @@ Adam realizes the benefits of both AdaGrad and RMSProp. So, it's a popular algor
 
 ![0f1a826be50ad6e25add45d9c6fd45d](https://user-images.githubusercontent.com/87682737/141838254-14938ea1-d9e4-4919-b4f8-5625021818fd.png)
 
+# Model Evalution
+
+In this step we will check the testing accuracy and validation accuracy of our model,plot confusion matrix and also check the missclassified images count of each type
+![17b18420de1fe290a96bc60e1057613](https://user-images.githubusercontent.com/87682737/142267946-4f553870-3c63-4e53-9863-69d0a8af8c99.png)
+
+
 # Sprint 4
 
 **Goals**
-- Create datasets 
+- Create  signals datasets 
 - Train the ML model to recognize generated signals
