@@ -115,6 +115,10 @@ In this step we will check the testing accuracy and validation accuracy of our m
 
 ![image](https://user-images.githubusercontent.com/7721258/142285334-d9cb1c86-2531-40b9-8c2b-ba2b5112d182.png)
 
+**References**
+
+X. Li, J. Wu, E. Z. Chen, and H. Jiang, “From deep learning towards finding skin lesion biomarkers,” 2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2019. 
+
 
 # Sprint 4
 
