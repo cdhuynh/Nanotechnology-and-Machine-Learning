@@ -131,8 +131,11 @@ X. Li, J. Wu, E. Z. Chen, and H. Jiang, “From deep learning towards finding sk
 - Finding data where carbon nanotubes are used as sensors (focusing on biomarkers)
 - Skin cancer detection: Apart from physical appearance, what are the other indicators?
 - What literature used carbon nanotubes to detect these specific biomarkers? 
+- Convert to data 
+
+![Potential MM biomarkers](https://user-images.githubusercontent.com/56008239/144278346-8d5e3b65-4c16-41b7-b7ff-e3d4a21ad35a.png)
 
 
 **Creating Datasets: Limitations**
 
-- The primary limitation with our initial approach is finding relevant data for use. While there is research into skin cancer treatments utilizing nanomaterials,... 
+- The primary limitation with our initial approach is finding relevant data for use. Regarding skin cancer, carbon nanotubes were used specifically as a drug-delivery approach rather than detecting skin cancer. 
