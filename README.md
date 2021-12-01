@@ -125,3 +125,14 @@ X. Li, J. Wu, E. Z. Chen, and H. Jiang, “From deep learning towards finding sk
 **Goals**
 - Create  signals datasets 
 - Train the ML model to recognize generated signals
+ 
+ 
+**Initial approach** 
+- Finding data where carbon nanotubes are used as sensors (focusing on biomarkers)
+- Skin cancer detection: Apart from physical appearance, what are the other indicators?
+- What literature used carbon nanotubes to detect these specific biomarkers? 
+
+
+**Creating Datasets: Limitations**
+
+- The primary limitation with our initial approach is finding relevant data for use. While there is research into skin cancer treatments utilizing nanomaterials,... 
