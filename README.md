@@ -142,3 +142,10 @@ X. Li, J. Wu, E. Z. Chen, and H. Jiang, “From deep learning towards finding sk
 - Training our existing ML model incorporating the nanotechnology component became a challenge due to a number of factors. To guarantee accuracy of our ML model, we needed to have enough data to train and test the model. Given our time frame, successfully acquiring and parsing data was much more complex than initially anticipated. 
 
 
+**Moving forward**
+
+- Try to improve the accuracy of our existing ML model. 
+
+- Possibly pivot away from examining skin cancer alone, and either:
+-  Create a new ML model which can recognize different cancer biomarkers (based on limits of detection).
+-  ...
