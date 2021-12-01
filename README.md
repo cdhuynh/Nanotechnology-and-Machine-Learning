@@ -138,4 +138,7 @@ X. Li, J. Wu, E. Z. Chen, and H. Jiang, “From deep learning towards finding sk
 
 **Creating Datasets: Limitations**
 
-- The primary limitation with our initial approach is finding relevant data for use. Regarding skin cancer, carbon nanotubes were used specifically as a drug-delivery approach rather than detecting skin cancer. 
+- The primary limitation with our initial approach is finding relevant data for use. Regarding skin cancer, carbon nanotubes were used specifically as a drug-delivery approach. As our primary goal was to use carbon nanotubes as a sesnor for cancer detection, I attempted to find carbon nanotubes being utilized a sensor to detect the biomarkers that were likely to be present in malignant melanoma. 
+- Training our existing ML model incorporating the nanotechnology component became a challenge due to a number of factors. To guarantee accuracy of our ML model, we needed to have enough data to train and test the model. Given our time frame, successfully acquiring and parsing data was much more complex than initially anticipated. 
+
+
